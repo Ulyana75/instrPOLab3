@@ -1,0 +1,3 @@
+[submodule "MaterialDrawer"]
+	path = MaterialDrawer
+	url = https://github.com/mikepenz/MaterialDrawer.git
